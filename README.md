@@ -1,7 +1,7 @@
 ### Creacion de entorno virtual
-    ```bash
+    `
     python -m venv env
-    ```
+    `
 ### Activación del entorno virtual
     ```bash
     source env/scripts/activate
